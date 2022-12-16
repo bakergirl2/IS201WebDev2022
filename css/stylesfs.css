@@ -1,0 +1,119 @@
+
+.header {
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+
+}
+
+body {
+    background-color: rgba(250, 217, 219, 1)
+    ;
+}
+h1 {
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 3.5em;
+    font-weight: lighter;
+}
+ 
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+    font-weight: lighter;
+}
+
+h4 {
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Shrikhand', cursive;
+    color:rgba(156, 0, 16, 1);
+    font-size: 20px;
+}
+
+h5 {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+
+p {
+    text-align: left; 
+    
+}
+ol {
+    text-align: left;
+    color: rgba(156, 0, 16, 1);  
+    font-family: 'Shrikhand', cursive;
+    font-size: larger;
+}
+
+a {
+    text-decoration:none;
+    color: whitesmoke;
+    font-weight: 100; 
+    font-size: 15px;
+}
+
+ul {
+    text-align: left;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+span {
+    font-weight: bold
+}
+
+.hallmark-snl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.nav-item {
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Shrikhand', cursive;
+    color: whitesmoke;
+    display: inline-block;
+    margin: auto;
+    text-decoration:none;
+}
+
+.hallmark-movie-posters {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.tableauPlaceholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    width: 100%
+}
+
+.copyright {
+    font-family: Times 'Times New Roman', Times, serif;
+    align-items: center;
+    color:black;
+}
+
+.tab-dash {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

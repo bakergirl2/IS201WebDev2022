@@ -1,0 +1,62 @@
+body {
+    background-color: rgba(160, 181, 217, 0.8);
+}
+
+.navbar-brand, .nav-item {
+    font-family: 'Lora', serif;
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1 {
+    font-family: 'Lora', serif;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+p {
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    color: rgba(0, 72, 196, 0.8);
+    font-size: xx-large;
+}
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgba(0, 72, 196, 0.8) ;
+    color: white;
+    text-align: center;
+    
+}
+
+.copyright-about {
+    font-family: 'Lora', serif;
+    align-items: center;
+    color: white;
+    
+}
+/* 
+<style>
+class: "page-heading" {
+    font-family: 'Lobster', cursive;
+    font-family: 'Lora', serif;
+}
+</style> */
